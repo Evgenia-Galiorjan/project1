@@ -1,0 +1,215 @@
+header{
+	margin: 30px auto auto 72px;
+}
+.logo{
+	width: 100.18px;
+	display: inline-block;
+    margin-left: 28px;
+    margin-top:30px;
+    margin-right: auto;
+    height: 30,57;
+    
+}
+.navigation{
+	display: inline-block;
+	margin-left: 50px;
+}
+.linavigation{
+	display: inline-block;
+	margin-right:20px;
+	margin-top:38px;
+}
+.anavigation{
+	color: #3D58A6;
+	font-size: 22px;
+	vertical-align:center;
+	font-family: "BPG Nino Mtavruli Bold", sans-serif;
+
+}
+#red color{
+	color: #EE4036;
+}
+.image{
+	margin: 85px 98px 110px 98px; 
+}
+
+
+h4{
+	margin-left: 98px;
+	font-size: 24px;
+	font-family: 'Roboto-Regular';
+}
+
+.table{
+	display: inline-block;
+	margin-top: 30px;
+	margin-bottom: 68px;
+	
+}
+.firsttable{
+	display: inline-block;
+	background-color: #F2F2F2;
+    width: 570px;
+	margin: auto 28px auto 98px;  
+}
+
+.secondtable{
+	display: inline-block;
+	background-color: #F2F2F2;
+	width: 570px;
+	height: 225px;
+}
+.title{
+	color: #3D58A6;
+	font-size: 22px;
+	margin-top: 15px;
+	margin-left:25px;
+}
+.img1{
+	width: 102.87px;
+	height: 145,5px;
+	display: inline-block;
+	margin-left:46px;
+	margin-top:20px;
+	margin-bottom: 20px;
+	margin-right:40px;
+	
+}
+.img2{
+	width: 84.81;
+	height: 127.51;
+	display: inline-block;
+	margin-left:60px;
+	margin-top:27px;
+	margin-bottom: 30px;
+	margin-right:60px;
+
+
+}
+
+.paragraph{
+	display: inline-block;
+	width: 355px;
+	font-size: 20px;
+	vertical-align: top;
+	margin-top: 20px;
+	font-family: 'Roboto-Regular';
+}
+.fb{
+	margin-left: 110px;
+	margin-bottom: 40px;
+}
+.Line{
+	margin-left:30px;
+	margin-bottom:40px;
+}
+.youtube{
+	margin-left:30px;
+	margin-bottom: 40px;
+}
+/* fb, line and youtube will be the same*/
+/* it was for page one, next is second, articles*/
+
+.blue{
+	background-color: #3D58A6;
+	color: #ffff;
+	margin-left:30px;
+	margin-top: 38px;
+	font-size: 48px;
+	display: inline-block;
+	font-family: "BPG Nino Mtavruli", sans-serif;
+}
+.may{
+	color: #3D58A6;
+	margin-left:20px;
+	margin-top:22px;
+	font-size: 22px;
+	display: inline;
+	font-family: "BPG Nino Mtavruli", sans-serif;
+}
+/* ერთმანეთის გასწვრივ იქნება ეს სურათი და ტექსტი, h3 იქნება სათაური. სამჯერ დავაკოპირებ მოცემულ ტექსტს*/
+
+.article1{
+	display: inline-block;
+	font-family: "BPG Ingiri Arial", sans-serif;
+
+}
+
+.article2{
+	display:inline;
+}
+
+h3{
+	font-size: 20px;
+	margin-left: 30px;
+	margin-top: 50px;
+	margin-bottom: 19px;
+	font-family: "BPG Nino Mtavruli", sans-serif;
+}
+.article1-img{
+	vertical-align: top;
+	margin-top: 20px; 
+	margin-left: 30px;
+	width: 270px;
+	height: 210px;
+}
+.article1-p{
+	font-size: 16px;
+	color: #000000;
+	margin-left: 35px;
+	margin-top: 20px;
+	width: 930px;
+	font-family: "BPG Ingiri Arial", sans-serif;
+
+}
+/* it was second page*/
+
+
+/* table 1 is gray*/
+/* table 3 is map table*/
+/* table 2 is information table*/
+/* it is css for page three*/
+.table1{
+	margin-top: 20px;
+	margin-bottom: 93px;
+	background-color: #E6E6E6;
+	width: 100%;
+	display: inline-block;
+}
+.table2{
+	display: inline-block;
+	vertical-align: top;
+    margin-left: 80px;
+    margin-top:50px;
+}
+.table3{
+	display: inline-block;
+	margin:52px 90px 74px 52px;
+}
+/* ეს არის საკონტატო ინფორმაციისთვის, სათაური*/
+.information{
+	margin: 65px 55px 5px 80px;
+	font-size: 20px;
+	color: #3D58A6;
+	font-family: 'BPG Nino Mtavruli';
+
+}
+/* ეს არის უბრალოდ საკონტაქტო ინფო*/
+
+.info{
+	margin: 5px 55px 5px 80px;
+	font-size: 16px;
+	font-family: 'BPG Ingiri Arial';
+
+}
+.maps{
+	width: 874px;
+    height: 466px;
+}
+span{
+    color: #808080;
+}
+ 
+#color {
+    color:#EE4036;
+}
